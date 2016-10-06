@@ -44,6 +44,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.TimeZone;
 
+/* Comment from github */
 public class MapsActivity extends AppCompatActivity implements OnMapReadyCallback,GoogleMap.OnMyLocationButtonClickListener {
 
     private static final int LOCATION_PERMISSION_REQUEST_CODE = 1;
